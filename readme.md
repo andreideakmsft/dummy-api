@@ -7,7 +7,8 @@ Currently the API returns an hardcoded JSON reponse.
 - [x] Returns hardcoded JSON
 
 ## Roadmap
+- [ ] Deploy in Azure Container Apps
 - [ ] /api/settings endpoint, to configure JSON response
-- [ ] store configured JSON in Cosmos DB, per Tenant/Workspace
+- [ ] store configured JSON in Cosmos DB/Blob Storage, per Tenant/Workspace
 - [ ] add option to request Bearer token in Authorization header
 
